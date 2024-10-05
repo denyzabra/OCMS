@@ -1,0 +1,6 @@
+{
+    "require": {
+        "fakerphp/faker": "^1.23",
+        "tecnickcom/tcpdf": "^6.7"
+    }
+}
